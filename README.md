@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1s1Zd0hSNggA4p2nIqqITAiMWQsEYrd1a/view?usp=sharing)](https://nurulanam.me)
+[![MasterHead](https://github.com/nurulanam/nurulanam.github.io/blob/master/assets/images/NURUL%20ANAM(2).png?raw=true)](https://nurulanam.me)
 <h1 align="center">Hi 👋, I'm Nurul Anam</h1>
 <h3 align="center">Web Designer And Backend Developer</h3>
 
