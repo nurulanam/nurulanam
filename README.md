@@ -129,7 +129,6 @@ class NurulAnam extends Developer {
 | 🤖 | **OpenRouter Free Content Generator** — AI-powered content generation tool using free OpenRouter models | PHP · Laravel · Ajax | [View →](https://github.com/nurulanam/openrouter-free-content-generator) |
 | 🏢 | **Office Management App** — Complete office workflow & employee management system | PHP · Laravel · MySQL | [View →](https://github.com/nurulanam/office-management-app) |
 | 🎓 | **Student Information System** — Academic records, attendance & performance tracking | PHP · MySQL · Bootstrap | [View →](https://github.com/nurulanam/Student-Information-System) |
-| 🏫 | **School Management System** — Full-featured school admin panel with modules for staff, students & finance | PHP · Laravel · jQuery | [View →](https://github.com/nurulanam/school-management-system) |
  
 ---
 
