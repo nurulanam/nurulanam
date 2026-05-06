@@ -124,36 +124,13 @@ class NurulAnam extends Developer {
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://github.com/nurulanam/openrouter-free-content-generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=openrouter-free-content-generator&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/nurulanam/office-management-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=office-management-app&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://github.com/nurulanam/Student-Information-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=Student-Information-System&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/nurulanam/school-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=school-management-system&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
-
+| # | Project | Tech | Link |
+|---|---------|------|------|
+| 🤖 | **OpenRouter Free Content Generator** — AI-powered content generation tool using free OpenRouter models | PHP · Laravel · Ajax | [View →](https://github.com/nurulanam/openrouter-free-content-generator) |
+| 🏢 | **Office Management App** — Complete office workflow & employee management system | PHP · Laravel · MySQL | [View →](https://github.com/nurulanam/office-management-app) |
+| 🎓 | **Student Information System** — Academic records, attendance & performance tracking | PHP · MySQL · Bootstrap | [View →](https://github.com/nurulanam/Student-Information-System) |
+| 🏫 | **School Management System** — Full-featured school admin panel with modules for staff, students & finance | PHP · Laravel · jQuery | [View →](https://github.com/nurulanam/school-management-system) |
+ 
 ---
 
 ## 🤝 Connect With Me
