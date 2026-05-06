@@ -124,11 +124,35 @@ class NurulAnam extends Developer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+## 🚀 Featured Projects
 
-[![School Management System](https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=school-management-system&theme=tokyonight&hide_border=true)](https://github.com/nurulanam/school-management-system)
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/nurulanam/openrouter-free-content-generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=openrouter-free-content-generator&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/nurulanam/office-management-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=office-management-app&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+</tr>
 
-</div>
+<tr>
+<td align="center">
+<a href="https://github.com/nurulanam/Student-Information-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=Student-Information-System&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/nurulanam/school-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nurulanam&repo=school-management-system&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
