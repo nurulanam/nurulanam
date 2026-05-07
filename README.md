@@ -33,10 +33,10 @@ class NurulAnam extends Developer {
     public string $role     = "Full-Stack Web Developer & WordPress Expert";
 
     public array $currentlyWorking = [
-        "School Management System" => "https://github.com/nurulanam/school-management-system",
+        "Office Management App" => "[https://github.com/nurulanam/office-management-app]",
     ];
 
-    public array $currentlyLearning = ["Advanced JavaScript", "Vibe Coding", "System Design"];
+    public array $currentlyLearning = ["React JS", "DSA"];
 
     public array $askMeAbout = [
         "PHP", "Laravel", "WordPress", "Web Design", "Backend Architecture"
