@@ -28,7 +28,6 @@ I build web software end to end — Laravel applications with real business logi
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![Livewire](https://img.shields.io/badge/Livewire-0F172A?style=flat-square&logo=livewire&logoColor=FB70A9)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
 
 **Frontend**
 
