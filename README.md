@@ -61,7 +61,9 @@ I build web software end to end — Laravel applications with real business logi
 | [**Sunset Sales POS**](https://github.com/nurulanam/POS-Management-With-Laravel-And-Tailwind) | Multi-branch point of sale — stock, checkout, discounts, refunds, purchasing and till reconciliation. | Laravel 13 · Tailwind 4 · MySQL |
 | [**Research Portal**](https://github.com/nurulanam/laravel-research-portal) | Connects researchers with participants — targeting, screening, messaging and credit-card billing. | Laravel 13 · Alpine.js · MySQL |
 | [**Rasterpress**](https://github.com/nurulanam/rasterpress) · [Live ↗](https://rasterpress.vercel.app/) | Free, unlimited PDF → JPG / PNG / WebP converter that runs entirely in the browser. | React 19 · TypeScript · Vite |
-| [**IDTA R2 Optimizer**](https://github.com/nurulanam/idta-r2-optimizer) | WooCommerce plugin that audits Cloudflare R2 verification assets and reclaims orphaned storage. | PHP 8.1+ · WooCommerce · R2 |
+| [**Exit Intent**](https://github.com/Oblique-Code/oblique-exit-intent) | Framework-agnostic exit-intent detection with an accessible, Tailwind-styled modal. Zero dependencies, ~3 kB gzipped. | JavaScript · Tailwind 4 · TypeScript |
+| [**Form Guard**](https://github.com/Oblique-Code/form-guard) | Prevents losing unsaved form data — accessible confirmation modal with React, Vue and vanilla adapters. | JavaScript · React/Vue · Rollup |
+| [**Oblique LLMs Builder**](https://github.com/Oblique-Code/oblique-llms-builder) | WordPress plugin with a visual drag-and-drop builder and live preview for `llms.txt`. | PHP · WordPress · JavaScript |
 
 ---
 
@@ -69,8 +71,9 @@ I build web software end to end — Laravel applications with real business logi
 
 <div align="center">
 
-<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nurulanam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulanam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnurulanam&query=%24.public_repos&label=Public%20repositories&style=flat-square&color=0F172A&logo=github&logoColor=white)](https://github.com/nurulanam?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/nurulanam?label=Followers&style=flat-square&color=0F172A&logo=github&logoColor=white)](https://github.com/nurulanam?tab=followers)
+[![Stars earned](https://img.shields.io/github/stars/nurulanam?label=Stars%20earned&style=flat-square&color=0F172A&logo=github&logoColor=white)](https://github.com/nurulanam)
 
 </div>
 
